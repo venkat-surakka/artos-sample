@@ -1,0 +1,105 @@
+[INFO ][2021-11-04_12:33:51.774][main][TestContext.java][printMendatoryInfo][General_0] - 
+
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+      ___                                                
+     / _ \                          __ _ _        
+    | |_| |__ _   _    __ _   ____  \ \ \ \       
+    |  _  |  __|_| |_ / __ \/ ____|  \ \ \ \      
+    | | | | |  |_| |_| (__) )___  \   ) ) ) )     
+    |_| |_|_|    | |_ \__ _/| ___ /  / / / /      
+    =============\__/============== (_(_(_(       
+    == Artos ==  (RELEASE v0.0.14-beta-1)                 
+                                                         
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+
+[INFO ][2021-11-04_12:33:51.797][main][TestContext.java][printMendatoryInfo][General_0] - 
+************************************ Header Start ******************************************
+Organisation_Name : <Organisation> PTY LTD
+Organisation_Country : NewZealand
+Organisation_Address : XX, Test Street, Test address
+Organisation_Phone : +64 1234567
+Organisation_Email : artos.framework@gmail.com
+Organisation_Website : www.theartos.com
+************************************ Header End ********************************************
+[DEBUG][2021-11-04_12:33:51.798][main][TestContext.java][printUsefulInfo][General_0] - 
+Test FrameWork Info
+* Artos version => 0.0.14-beta-1
+* Artos build date => 19-04-2020 07:07
+* Java Runtime Environment version => 11.0.10
+* Java Virtual Machine specification version => 11
+* Java Runtime Environment specification version => 11
+* Java class path => C:\working\artos-sample\Artos-test-project\target\classes;C:\Users\venkat\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\venkat\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\venkat\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\venkat\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\venkat\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar;C:\Users\venkat\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar;C:\Users\venkat\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar;C:\Users\venkat\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\venkat\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\venkat\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\venkat\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\venkat\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\venkat\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\venkat\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\venkat\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\venkat\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\venkat\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\venkat\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\venkat\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\venkat\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\venkat\.m2\repository\com\theartos\artos\0.0.14-beta-1\artos-0.0.14-beta-1.jar
+* List of paths to search when loading libraries => C:\Program Files\Zulu\zulu-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Zulu\zulu-11\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\admin\AppData\Local\Programs\Python\Python39;C:\Program Files\Gradle 7.2\bin;C:\Users\venkat\eclipse-workspace\ExtTools\db-derby-10.8.2.2-bin\bin;C:\Program Files (x86)\dotnet\;C:\Users\venkat\AppData\Local\Microsoft\WindowsApps;;C:\Users\venkat\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\venkat\.dotnet\tools;.
+* Operating system name => Windows 10
+* Operating system architecture => amd64
+* Operating system version => 10.0
+* File separator ("/" on UNIX) => \
+* Path separator (":" on UNIX) => ;
+* User's account name => venkat
+* User's home directory => C:\Users\venkat
+
+[INFO ][2021-11-04_12:33:52.715][pool-2-thread-1][TestExecutionEventListener.java][testExecutionLoopCount][General_0] - 
+---------------- (Test Loop Count : 1) -------------------
+[INFO ][2021-11-04_12:33:52.718][pool-2-thread-1][TestExecutionEventListener.java][printTestPlan][General_0] - *************************************************************************
+Test Name	: com.tests.sample3_selenium.Sample_Selenium
+Written BY	: arpit
+Date		: 6/03/2019
+BDD Test Plan	: 
+GIVEN webpage has not changed 
+AND firefox is working 
+THEN visual regression is successful
+*************************************************************************
+[INFO ][2021-11-04_12:33:52.728][pool-2-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testThatDoesntShowStacktrace
+*************************************************************************
+[INFO ][2021-11-04_12:33:52.729][pool-2-thread-1][TestExecutionEventListener.java][localBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTest(context)
+[INFO ][2021-11-04_12:34:05.390][pool-2-thread-1][TestContext.java][setTestStatus][General_0] - [FAIL]: class org.junit.ComparisonFailure cannot be cast to class java.lang.Exception (org.junit.ComparisonFailure is in unnamed module of loader 'app'; java.lang.Exception is in module java.base of loader 'bootstrap')
+[INFO ][2021-11-04_12:34:05.392][pool-2-thread-1][TestContext.java][setTestStatus][General_0] - =========================================================================
+=============================== FAIL HERE ===============================
+=========================================================================
+[ERROR][2021-11-04_12:34:05.395][pool-2-thread-1][UtilsFramework.java][writePrintStackTrace][General_0] - java.lang.ClassCastException: class org.junit.ComparisonFailure cannot be cast to class java.lang.Exception (org.junit.ComparisonFailure is in unnamed module of loader 'app'; java.lang.Exception is in module java.base of loader 'bootstrap')
+	at com.artos.framework.infra.RunnerTestUnits.processInvocationTargetException(RunnerTestUnits.java:379)
+	at com.artos.framework.infra.RunnerTestUnits.runSimpleUnitTest(RunnerTestUnits.java:367)
+	at com.artos.framework.infra.RunnerTestUnits.runIndividualUnitTest(RunnerTestUnits.java:242)
+	at com.artos.framework.infra.RunnerTestUnits.runSingleThreadUnits(RunnerTestUnits.java:114)
+	at com.artos.framework.infra.ArtosRunner.runSimpleTest(ArtosRunner.java:619)
+	at com.artos.framework.infra.ArtosRunner.runIndividualTest(ArtosRunner.java:511)
+	at com.artos.framework.infra.ArtosRunner.runSingleThread(ArtosRunner.java:376)
+	at com.artos.framework.infra.ArtosRunner.runTest(ArtosRunner.java:171)
+	at com.artos.framework.infra.ArtosRunner.access$000(ArtosRunner.java:57)
+	at com.artos.framework.infra.ArtosRunner$1.executeTest(ArtosRunner.java:145)
+	at com.artos.framework.infra.GUITestSelector.<init>(GUITestSelector.java:127)
+	at com.artos.framework.infra.ArtosRunner.run(ArtosRunner.java:148)
+	at com.artos.framework.infra.SuiteTask.run(Runner.java:591)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[INFO ][2021-11-04_12:34:05.398][pool-2-thread-1][TestExecutionEventListener.java][localAfterTestUnitMethodExecutionStarted][General_0] - 
+=> tearDown(context)
+[INFO ][2021-11-04_12:34:06.663][pool-2-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [FAIL]: testThatDoesntShowStacktrace(context)
+[INFO ][2021-11-04_12:34:06.665][pool-2-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testThatShowsStacktrace
+*************************************************************************
+[INFO ][2021-11-04_12:34:06.665][pool-2-thread-1][TestExecutionEventListener.java][localBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTest(context)
+[INFO ][2021-11-04_12:34:18.896][pool-2-thread-1][TestContext.java][setTestStatus][General_0] - [FAIL]: Tutorials title is not as expected - expected: LATEST TUTORIALS, actual: LATEST TUTORIALS
+[INFO ][2021-11-04_12:34:18.896][pool-2-thread-1][TestContext.java][setTestStatus][General_0] - =========================================================================
+=============================== FAIL HERE ===============================
+=========================================================================
+[INFO ][2021-11-04_12:34:18.897][pool-2-thread-1][TestExecutionEventListener.java][localAfterTestUnitMethodExecutionStarted][General_0] - 
+=> tearDown(context)
+[INFO ][2021-11-04_12:34:20.622][pool-2-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [FAIL]: testThatShowsStacktrace(context)
+[INFO ][2021-11-04_12:34:20.626][pool-2-thread-1][TestContext.java][generateTestSummary][General_0] - 
+Test Result : FAIL
+*************************************************************************
+[INFO ][2021-11-04_12:34:21.316][pool-2-thread-1][ArtosRunner.java][runTest][General_0] - *************************************************************************
+[TestCases] EXECUTED:1    PASS:0    SKIP:0    KTF:0    FAIL:1    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:1   ]
+[TestUnits] EXECUTED:2    PASS:0    SKIP:0    KTF:0    FAIL:2    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:2   ]
+
+Test start time : 04-11-2021 12:33:52
+Test finish time : 04-11-2021 12:34:20
+Test duration : 0 min, 27 sec

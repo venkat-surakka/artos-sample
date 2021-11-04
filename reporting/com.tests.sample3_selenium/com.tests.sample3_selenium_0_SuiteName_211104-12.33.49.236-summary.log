@@ -1,0 +1,33 @@
+
+
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+      ___                                                
+     / _ \                          __ _ _        
+    | |_| |__ _   _    __ _   ____  \ \ \ \       
+    |  _  |  __|_| |_ / __ \/ ____|  \ \ \ \      
+    | | | | |  |_| |_| (__) )___  \   ) ) ) )     
+    |_| |_|_|    | |_ \__ _/| ___ /  / / / /      
+    =============\__/============== (_(_(_(       
+    == Artos ==  (RELEASE v0.0.14-beta-1)                 
+                                                         
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+
+
+************************************ Header Start ******************************************
+Organisation_Name : <Organisation> PTY LTD
+Organisation_Country : NewZealand
+Organisation_Address : XX, Test Street, Test address
+Organisation_Phone : +64 1234567
+Organisation_Email : artos.framework@gmail.com
+Organisation_Website : www.theartos.com
+************************************ Header End ********************************************
+FAIL = com.tests.sample3_selenium.Sample_Selenium.......................................................... P:0    S:0    K:0    F:1    [          ] duration:000:00:27.907 ....................
+  |--FAIL = testThatDoesntShowStacktrace(context)..........................................................  :      :      :      :     [          ] duration:000:00:09.650 ....................
+  |--FAIL = testThatShowsStacktrace(context)...............................................................  :      :      :      :     [          ] duration:000:00:10.263 ....................
+*************************************************************************
+[TestCases] EXECUTED:1    PASS:0    SKIP:0    KTF:0    FAIL:1    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:1   ]
+[TestUnits] EXECUTED:2    PASS:0    SKIP:0    KTF:0    FAIL:2    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:2   ]
+
+Test start time : 04-11-2021 12:33:52
+Test finish time : 04-11-2021 12:34:20
+Test duration : 0 min, 27 sec
