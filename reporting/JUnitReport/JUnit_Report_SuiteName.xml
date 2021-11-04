@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuites disabled="false" errors="0" failures="1" name="SuiteName" tests="1" time="27.-1620000" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../conf/JUnit.xsd">
+  <testsuite disabled="false" errors="0" failures="2" hostname="" id="" name="com.tests.sample3_selenium.Sample_Selenium" skipped="0" tests="2" time="27.907" timestamp="">
+    <testcase assertions="" classname="com.tests.sample3_selenium.Sample_Selenium" name="testThatDoesntShowStacktrace" status="FAIL" time="09.650">
+      <failure message=""/>
+    </testcase>
+    <testcase assertions="" classname="com.tests.sample3_selenium.Sample_Selenium" name="testThatShowsStacktrace" status="FAIL" time="10.263">
+      <failure message=""/>
+    </testcase>
+    <properties>
+      <property name="" value=""/>
+    </properties>
+  </testsuite>
+</testsuites>

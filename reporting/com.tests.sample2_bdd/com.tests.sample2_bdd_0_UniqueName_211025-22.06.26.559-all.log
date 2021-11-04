@@ -1,0 +1,124 @@
+[INFO ][2021-10-25_22:06:28.497][main][TestContext.java][printMendatoryInfo][General_0] - 
+
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+      ___                                                
+     / _ \                          __ _ _        
+    | |_| |__ _   _    __ _   ____  \ \ \ \       
+    |  _  |  __|_| |_ / __ \/ ____|  \ \ \ \      
+    | | | | |  |_| |_| (__) )___  \   ) ) ) )     
+    |_| |_|_|    | |_ \__ _/| ___ /  / / / /      
+    =============\__/============== (_(_(_(       
+    == Artos ==  (RELEASE v0.0.14-beta-1)                 
+                                                         
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+
+[INFO ][2021-10-25_22:06:28.497][main][TestContext.java][printMendatoryInfo][General_0] - 
+************************************ Header Start ******************************************
+Organisation_Name : <Organisation> PTY LTD
+Organisation_Country : NewZealand
+Organisation_Address : XX, Test Street, Test address
+Organisation_Phone : +64 1234567
+Organisation_Email : artos.framework@gmail.com
+Organisation_Website : www.theartos.com
+************************************ Header End ********************************************
+[DEBUG][2021-10-25_22:06:28.497][main][TestContext.java][printUsefulInfo][General_0] - 
+Test FrameWork Info
+* Artos version => 0.0.14-beta-1
+* Artos build date => 19-04-2020 07:07
+* Java Runtime Environment version => 11.0.10
+* Java Virtual Machine specification version => 11
+* Java Runtime Environment specification version => 11
+* Java class path => C:\working\artos-sample\Artos-test-project\target\classes;C:\Users\venkat\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\venkat\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\venkat\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\venkat\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\venkat\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar;C:\Users\venkat\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar;C:\Users\venkat\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar;C:\Users\venkat\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar;C:\Users\venkat\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\venkat\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\venkat\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\venkat\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\venkat\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\venkat\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\venkat\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\venkat\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\venkat\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\venkat\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\venkat\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\venkat\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\venkat\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\venkat\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\venkat\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\venkat\.m2\repository\com\theartos\artos\0.0.14-beta-1\artos-0.0.14-beta-1.jar
+* List of paths to search when loading libraries => C:\Program Files\Zulu\zulu-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Zulu\zulu-11\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\admin\AppData\Local\Programs\Python\Python39;C:\Program Files\Gradle 7.2\bin;C:\Users\venkat\eclipse-workspace\ExtTools\db-derby-10.8.2.2-bin\bin;C:\Program Files (x86)\dotnet\;C:\Users\venkat\AppData\Local\Microsoft\WindowsApps;;C:\Users\venkat\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\venkat\.dotnet\tools;.
+* Operating system name => Windows 10
+* Operating system architecture => amd64
+* Operating system version => 10.0
+* File separator ("/" on UNIX) => \
+* Path separator (":" on UNIX) => ;
+* User's account name => venkat
+* User's home directory => C:\Users\venkat
+
+[INFO ][2021-10-25_22:06:53.235][pool-3-thread-1][TestExecutionEventListener.java][testExecutionLoopCount][General_0] - 
+---------------- (Test Loop Count : 1) -------------------
+[INFO ][2021-10-25_22:06:53.235][pool-3-thread-1][TestExecutionEventListener.java][printTestPlan][General_0] - *************************************************************************
+Scenario: User powers on Television
+*************************************************************************
+[INFO ][2021-10-25_22:06:53.250][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Given User see DisplayText "Please turn television power on" "-"
+*************************************************************************
+[INFO ][2021-10-25_22:06:53.250][pool-3-thread-1][TestCase_1.java][_user_see_displaytext][General_0] - Parameter 0: Please turn television power on
+[INFO ][2021-10-25_22:06:53.250][pool-3-thread-1][TestCase_1.java][_user_see_displaytext][General_0] - Parameter 1: -
+[INFO ][2021-10-25_22:06:58.469][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Given User see DisplayText "Please turn television power on" "-"
+[INFO ][2021-10-25_22:06:58.469][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: And User sets audio volume to "50"
+*************************************************************************
+[INFO ][2021-10-25_22:06:58.485][pool-3-thread-1][TestCase_1.java][_user_sets_audio_volume_to][General_0] - Parameter 0: 50
+[INFO ][2021-10-25_22:07:03.709][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: And User sets audio volume to "50"
+[INFO ][2021-10-25_22:07:03.709][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: And User plays movie "The Spiderman"
+*************************************************************************
+[INFO ][2021-10-25_22:07:03.709][pool-3-thread-1][TestCase_1.java][_user_plays_movie][General_0] - Parameter 0: The Spiderman
+[INFO ][2021-10-25_22:07:08.975][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: And User plays movie "The Spiderman"
+[INFO ][2021-10-25_22:07:08.975][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Then User validates "Is front power light is on?"
+*************************************************************************
+[INFO ][2021-10-25_22:07:08.975][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - Parameter 0: Is front power light is on?
+[INFO ][2021-10-25_22:07:13.305][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - User pressed YES
+[INFO ][2021-10-25_22:07:13.305][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Then User validates "Is front power light is on?"
+[INFO ][2021-10-25_22:07:13.305][pool-3-thread-1][TestContext.java][generateTestScenarioSummary][General_0] - 
+Scenario Result : PASS
+*************************************************************************
+[INFO ][2021-10-25_22:07:13.399][pool-3-thread-1][TestExecutionEventListener.java][printTestPlan][General_0] - *************************************************************************
+Scenario: Television Remote Functions check
+*************************************************************************
+[INFO ][2021-10-25_22:07:13.399][pool-3-thread-1][BDDRunner.java][executeChildTest][General_0] - DataTable(0)
+[INFO ][2021-10-25_22:07:13.399][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Given User press "<FunctionButtons>" button of the remote
+*************************************************************************
+[INFO ][2021-10-25_22:07:13.415][pool-3-thread-1][TestCase_1.java][_user_press__button_of_the_remote][General_0] - Parameter 0: ON
+[INFO ][2021-10-25_22:07:18.618][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Given User press "<FunctionButtons>" button of the remote
+[INFO ][2021-10-25_22:07:18.618][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Then User validates "<ExpectedAction>"
+*************************************************************************
+[INFO ][2021-10-25_22:07:18.618][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - Parameter 0: Is television ON?
+[INFO ][2021-10-25_22:07:21.164][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - User pressed No
+[INFO ][2021-10-25_22:07:21.164][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Then User validates "<ExpectedAction>"
+[INFO ][2021-10-25_22:07:21.164][pool-3-thread-1][TestContext.java][generateTestScenarioSummary][General_0] - 
+Scenario Result : PASS
+*************************************************************************
+[INFO ][2021-10-25_22:07:21.195][pool-3-thread-1][BDDRunner.java][executeChildTest][General_0] - DataTable(1)
+[INFO ][2021-10-25_22:07:21.195][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Given User press "<FunctionButtons>" button of the remote
+*************************************************************************
+[INFO ][2021-10-25_22:07:21.211][pool-3-thread-1][TestCase_1.java][_user_press__button_of_the_remote][General_0] - Parameter 0: OFF
+[INFO ][2021-10-25_22:07:26.414][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Given User press "<FunctionButtons>" button of the remote
+[INFO ][2021-10-25_22:07:26.414][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Then User validates "<ExpectedAction>"
+*************************************************************************
+[INFO ][2021-10-25_22:07:26.414][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - Parameter 0: Is television OFF?
+[INFO ][2021-10-25_22:07:29.852][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - User pressed YES
+[INFO ][2021-10-25_22:07:29.852][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Then User validates "<ExpectedAction>"
+[INFO ][2021-10-25_22:07:29.852][pool-3-thread-1][TestContext.java][generateTestScenarioSummary][General_0] - 
+Scenario Result : PASS
+*************************************************************************
+[INFO ][2021-10-25_22:07:29.884][pool-3-thread-1][BDDRunner.java][executeChildTest][General_0] - DataTable(2)
+[INFO ][2021-10-25_22:07:29.884][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Given User press "<FunctionButtons>" button of the remote
+*************************************************************************
+[INFO ][2021-10-25_22:07:29.899][pool-3-thread-1][TestCase_1.java][_user_press__button_of_the_remote][General_0] - Parameter 0: Mute
+[INFO ][2021-10-25_22:07:35.134][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Given User press "<FunctionButtons>" button of the remote
+[INFO ][2021-10-25_22:07:35.134][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Step: Then User validates "<ExpectedAction>"
+*************************************************************************
+[INFO ][2021-10-25_22:07:35.134][pool-3-thread-1][TestCase_1.java][_user_validates][General_0] - Parameter 0: Is audio Mute?
+[INFO ][2021-10-25_22:07:40.398][pool-3-thread-1][TestContext.java][generateStepTestSummary][General_0] - [PASS]: Then User validates "<ExpectedAction>"
+[INFO ][2021-10-25_22:07:40.398][pool-3-thread-1][TestContext.java][generateTestScenarioSummary][General_0] - 
+Scenario Result : PASS
+*************************************************************************
+[INFO ][2021-10-25_22:07:41.133][pool-3-thread-1][BDDRunner.java][runTest][General_0] - *************************************************************************
+[Scenarios] EXECUTED:4    PASS:4    SKIP:0    KTF:0    FAIL:0    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:0   ]
+[TestSteps] EXECUTED:10   PASS:10   SKIP:0    KTF:0    FAIL:0    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:0   ]
+
+Test start time : 25-10-2021 10:06:53
+Test finish time : 25-10-2021 10:07:40
+Test duration : 0 min, 47 sec
